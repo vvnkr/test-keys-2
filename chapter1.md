@@ -126,3 +126,5 @@ Test test test
 *** =type3
 NormalExercise
 
+*** =key3: 47bef60c64
+
