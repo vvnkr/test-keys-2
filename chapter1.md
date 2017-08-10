@@ -118,10 +118,11 @@ success_msg("Good work!")
 Test test test
 
 *** =type1: NormalExercise
-
-
 *** =key1: 386453dd52
 
 *** =type2: MultipleChoiceExercise
 *** =key2: 2614355916
+
+*** =type3
+NormalExercise
 
