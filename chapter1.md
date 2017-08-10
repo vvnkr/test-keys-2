@@ -112,3 +112,12 @@ test_error()
 
 success_msg("Good work!")
 ```
+
+--- type:TabExercise
+## Test
+Test test test
+
+*** =type1: NormalExercise
+
+
+*** =type2: MultipleChoiceExercise
